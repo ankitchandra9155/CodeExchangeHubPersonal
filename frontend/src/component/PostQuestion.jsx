@@ -19,6 +19,7 @@ export default function PostQuestion() {
                             className="flex h-[50px] w-full rounded-md border border-black/30 bg-transparent px-3 py-2 text-sm placeholder:text-gray-600 focus:outline-none focus:ring-1 focus:ring-black/30 focus:ring-offset-1 disabled:cursor-not-allowed disabled:opacity-50"
                             type="text"
                             placeholder="Title"
+                            onChange={handleTitleChange}
                         ></input>
                     </div>
                     <textarea id="message" rows="10" onChange={handelInput} value={question} class="block p-2.5 w-full text-sm text-gray-900  mt-3 rounded-lg border border-gray-300 placeholder:text-gray-600 focus:outline-none focus:ring-1 focus:ring-black/30 focus:ring-offset-1 disabled:cursor-not-allowed disabled:opacity-50" placeholder="Question Description....."></textarea>

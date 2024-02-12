@@ -14,11 +14,37 @@ export default function Signup({setIsSignUp}) {
     const handlePasswordChange=(e)=>{
         setPassword(e.target.value);
     }
-    const handleSubmitButton=()=>{
+    const handleSubmitButton=async(e)=>{
+        e.preventDefault();
         console.log(name)
         console.log(email)
         console.log(password)
-    }
+        try {
+            // Make a POST request to the signup endpoint
+            const response = await fetch('http://localhost:8080/signup', {
+              method: 'POST',
+              headers: {
+                'Content-Type': 'application/json',
+              },
+              body: JSON.stringify({
+                name,
+                email,
+                password,
+              }),
+            });
+      
+            // Check if the request was successful (status code 2xx)
+            if (response.ok) {
+              console.log('Signup successful!');
+              // You can handle the success response here
+            } else {
+              // Handle errors if the request was not successful
+              console.error('Signup failed. Status:', response.status);
+            }
+          } catch (error) {
+            console.error('An error occurred during signup:', error);
+          }
+        };
 
 
 
@@ -31,7 +57,7 @@ export default function Signup({setIsSignUp}) {
             <div className="relative p-4 w-full max-w-md h-full md:h-auto">
                 <div className="relative bg-white rounded-lg shadow">
                     <button
-                        onClick={()=>{setIsSignUp(false)}}
+                        // onClick={()=>{setIsSignUp(false)}}
                         type="button"
                         className="absolute top-3 right-2.5 text-gray-400 bg-transparent hover:bg-gray-200 hover:text-gray-900 rounded-lg text-sm p-1.5 ml-auto inline-flex items-center popup-close"
                     >
@@ -68,7 +94,7 @@ export default function Signup({setIsSignUp}) {
                                 Full Name
                             </label>
                             <input
-                                name="fullName"
+                                name="name"
                                 type="text"                         
                                 required=""
                                 className="block w-full rounded-lg border border-gray-300 px-3 py-2 shadow-sm outline-none placeholder:text-gray-400 focus:ring-2 focus:ring-black focus:ring-offset-1"
