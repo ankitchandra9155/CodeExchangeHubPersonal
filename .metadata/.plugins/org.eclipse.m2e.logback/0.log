@@ -221,3 +221,328 @@
 2024-02-12 19:57:28,719 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2024-02-12 19:57:28,719 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2024-02-12 19:57:28,719 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\intel\Desktop\CodeExchangeHub\backend\src\test\resources
+2024-02-13 10:40:27,493 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-13 11:11:59,183 [Worker-2: Launching CodeExchangeHubApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-13 11:11:59,185 [Worker-2: Launching CodeExchangeHubApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-02-13 11:11:59,191 [Worker-2: Launching CodeExchangeHubApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-02-13 11:11:59,218 [Worker-2: Launching CodeExchangeHubApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-13 11:11:59,226 [Worker-2: Launching CodeExchangeHubApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-13 11:11:59,227 [Worker-2: Launching CodeExchangeHubApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-02-13 11:11:59,227 [Worker-2: Launching CodeExchangeHubApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\intel\Desktop\CodeExchangeHub\backend\src\test\resources
+2024-02-13 11:41:00,005 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-13 11:41:00,006 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-02-13 11:41:00,008 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-02-13 11:41:00,056 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-13 11:41:00,060 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-13 11:41:00,060 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-02-13 11:41:00,060 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\intel\Desktop\CodeExchangeHub\backend\src\test\resources
+2024-02-13 11:59:22,301 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-13 11:59:22,301 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-02-13 11:59:22,302 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-02-13 11:59:22,344 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-13 11:59:22,351 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-13 11:59:22,352 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-02-13 11:59:22,352 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\intel\Desktop\CodeExchangeHub\backend\src\test\resources
+2024-02-13 12:02:50,806 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-13 12:02:50,807 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-02-13 12:02:50,810 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-02-13 12:02:50,827 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-13 12:02:50,832 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-13 12:02:50,832 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-02-13 12:02:50,832 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\intel\Desktop\CodeExchangeHub\backend\src\test\resources
+2024-02-13 12:04:48,812 [Worker-30: Launching CodeExchangeHubApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-13 12:04:48,812 [Worker-30: Launching CodeExchangeHubApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-02-13 12:04:48,813 [Worker-30: Launching CodeExchangeHubApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-02-13 12:04:48,845 [Worker-30: Launching CodeExchangeHubApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-13 12:04:48,851 [Worker-30: Launching CodeExchangeHubApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-13 12:04:48,851 [Worker-30: Launching CodeExchangeHubApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-02-13 12:04:48,852 [Worker-30: Launching CodeExchangeHubApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\intel\Desktop\CodeExchangeHub\backend\src\test\resources
+2024-02-13 12:39:22,686 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-13 12:39:22,687 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-02-13 12:39:22,688 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-02-13 12:39:22,711 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-13 12:39:22,721 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-13 12:39:22,722 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-02-13 12:39:22,722 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\intel\Desktop\CodeExchangeHub\backend\src\test\resources
+2024-02-13 12:48:18,697 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-13 12:48:18,697 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-02-13 12:48:18,698 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-02-13 12:48:18,726 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-13 12:48:18,730 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-13 12:48:18,730 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-02-13 12:48:18,730 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\intel\Desktop\CodeExchangeHub\backend\src\test\resources
+2024-02-13 17:22:33,201 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-13 17:22:33,202 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-02-13 17:22:33,203 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-02-13 17:22:33,228 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-13 17:22:33,236 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-13 17:22:33,236 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-02-13 17:22:33,236 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\intel\Desktop\CodeExchangeHub\backend\src\test\resources
+2024-02-13 17:23:25,420 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2024-02-13 17:23:53,303 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755 [623])
+2024-02-13 17:23:53,313 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755
+2024-02-13 17:23:53,314 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\aether-connector-okhttp-0.17.8.jar
+2024-02-13 17:23:53,315 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\aopalliance-1.0.jar
+2024-02-13 17:23:53,316 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\commons-lang3-3.12.0.jar
+2024-02-13 17:23:53,317 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\guice-5.1.0.jar
+2024-02-13 17:23:53,318 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\jansi-2.4.0.jar
+2024-02-13 17:23:53,319 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-artifact-3.9.4.jar
+2024-02-13 17:23:53,319 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-builder-support-3.9.4.jar
+2024-02-13 17:23:53,320 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-compat-3.9.4.jar
+2024-02-13 17:23:53,320 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-core-3.9.4.jar
+2024-02-13 17:23:53,320 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-embedder-3.9.4.jar
+2024-02-13 17:23:53,321 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-model-3.9.4.jar
+2024-02-13 17:23:53,321 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-model-builder-3.9.4.jar
+2024-02-13 17:23:53,322 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-plugin-api-3.9.4.jar
+2024-02-13 17:23:53,322 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-repository-metadata-3.9.4.jar
+2024-02-13 17:23:53,322 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-api-1.9.14.jar
+2024-02-13 17:23:53,322 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-connector-basic-1.9.14.jar
+2024-02-13 17:23:53,323 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-impl-1.9.14.jar
+2024-02-13 17:23:53,323 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-named-locks-1.9.14.jar
+2024-02-13 17:23:53,324 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-provider-3.9.4.jar
+2024-02-13 17:23:53,324 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-spi-1.9.14.jar
+2024-02-13 17:23:53,325 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-transport-wagon-1.9.14.jar
+2024-02-13 17:23:53,325 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-util-1.9.14.jar
+2024-02-13 17:23:53,325 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-settings-3.9.4.jar
+2024-02-13 17:23:53,325 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-settings-builder-3.9.4.jar
+2024-02-13 17:23:53,326 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-shared-utils-3.3.4.jar
+2024-02-13 17:23:53,326 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\okhttp-3.14.1.jar
+2024-02-13 17:23:53,326 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\okio-1.17.3.jar
+2024-02-13 17:23:53,326 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\org.eclipse.sisu.inject-0.3.5.jar
+2024-02-13 17:23:53,327 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2024-02-13 17:23:53,327 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-build-api-0.0.7.jar
+2024-02-13 17:23:53,327 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-cipher-2.0.jar
+2024-02-13 17:23:53,327 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-classworlds-2.7.0.jar
+2024-02-13 17:23:53,328 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-component-annotations-2.1.0.jar
+2024-02-13 17:23:53,328 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-interpolation-1.26.jar
+2024-02-13 17:23:53,329 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-sec-dispatcher-2.0.jar
+2024-02-13 17:23:53,329 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-utils-3.5.1.jar
+2024-02-13 17:23:53,332 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\wagon-file-3.5.3.jar
+2024-02-13 17:23:53,334 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\wagon-provider-api-3.5.3.jar
+2024-02-13 17:23:53,336 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_32.1.2.jre [12])
+2024-02-13 17:23:53,337 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\com.google.guava_32.1.2.jre.jar
+2024-02-13 17:23:53,337 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.9 [984])
+2024-02-13 17:23:53,338 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\slf4j.api_2.0.9.jar
+2024-02-13 17:23:53,338 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [38])
+2024-02-13 17:23:53,338 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2024-02-13 17:23:53,339 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20200909-1856 [36])
+2024-02-13 17:23:53,339 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\javax.annotation_1.3.5.v20200909-1856.jar
+2024-02-13 17:23:53,339 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.5.0 [73])
+2024-02-13 17:23:53,340 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.apache.commons.cli_1.5.0.jar
+2024-02-13 17:23:53,340 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [14])
+2024-02-13 17:23:53,341 [Worker-53: Launching backend] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\com.google.guava.failureaccess_1.0.1.jar
+2024-02-13 17:23:53,345 [Worker-53: Launching backend] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\intel\Desktop\CodeExchangeHub\backend":
+2024-02-13 17:23:53,346 [Worker-53: Launching backend] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always 
+2024-02-13 17:25:35,314 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2024-02-13 17:25:50,559 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755 [623])
+2024-02-13 17:25:50,560 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755
+2024-02-13 17:25:50,560 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\aether-connector-okhttp-0.17.8.jar
+2024-02-13 17:25:50,561 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\aopalliance-1.0.jar
+2024-02-13 17:25:50,562 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\commons-lang3-3.12.0.jar
+2024-02-13 17:25:50,562 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\guice-5.1.0.jar
+2024-02-13 17:25:50,563 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\jansi-2.4.0.jar
+2024-02-13 17:25:50,564 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-artifact-3.9.4.jar
+2024-02-13 17:25:50,565 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-builder-support-3.9.4.jar
+2024-02-13 17:25:50,566 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-compat-3.9.4.jar
+2024-02-13 17:25:50,566 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-core-3.9.4.jar
+2024-02-13 17:25:50,566 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-embedder-3.9.4.jar
+2024-02-13 17:25:50,567 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-model-3.9.4.jar
+2024-02-13 17:25:50,567 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-model-builder-3.9.4.jar
+2024-02-13 17:25:50,567 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-plugin-api-3.9.4.jar
+2024-02-13 17:25:50,568 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-repository-metadata-3.9.4.jar
+2024-02-13 17:25:50,568 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-api-1.9.14.jar
+2024-02-13 17:25:50,568 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-connector-basic-1.9.14.jar
+2024-02-13 17:25:50,568 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-impl-1.9.14.jar
+2024-02-13 17:25:50,569 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-named-locks-1.9.14.jar
+2024-02-13 17:25:50,569 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-provider-3.9.4.jar
+2024-02-13 17:25:50,569 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-spi-1.9.14.jar
+2024-02-13 17:25:50,570 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-transport-wagon-1.9.14.jar
+2024-02-13 17:25:50,570 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-util-1.9.14.jar
+2024-02-13 17:25:50,570 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-settings-3.9.4.jar
+2024-02-13 17:25:50,570 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-settings-builder-3.9.4.jar
+2024-02-13 17:25:50,571 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-shared-utils-3.3.4.jar
+2024-02-13 17:25:50,571 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\okhttp-3.14.1.jar
+2024-02-13 17:25:50,571 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\okio-1.17.3.jar
+2024-02-13 17:25:50,572 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\org.eclipse.sisu.inject-0.3.5.jar
+2024-02-13 17:25:50,572 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2024-02-13 17:25:50,573 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-build-api-0.0.7.jar
+2024-02-13 17:25:50,573 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-cipher-2.0.jar
+2024-02-13 17:25:50,574 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-classworlds-2.7.0.jar
+2024-02-13 17:25:50,574 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-component-annotations-2.1.0.jar
+2024-02-13 17:25:50,575 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-interpolation-1.26.jar
+2024-02-13 17:25:50,575 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-sec-dispatcher-2.0.jar
+2024-02-13 17:25:50,575 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-utils-3.5.1.jar
+2024-02-13 17:25:50,576 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\wagon-file-3.5.3.jar
+2024-02-13 17:25:50,576 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\wagon-provider-api-3.5.3.jar
+2024-02-13 17:25:50,576 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_32.1.2.jre [12])
+2024-02-13 17:25:50,577 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\com.google.guava_32.1.2.jre.jar
+2024-02-13 17:25:50,577 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.9 [984])
+2024-02-13 17:25:50,578 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\slf4j.api_2.0.9.jar
+2024-02-13 17:25:50,578 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [38])
+2024-02-13 17:25:50,579 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2024-02-13 17:25:50,579 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20200909-1856 [36])
+2024-02-13 17:25:50,581 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\javax.annotation_1.3.5.v20200909-1856.jar
+2024-02-13 17:25:50,581 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.5.0 [73])
+2024-02-13 17:25:50,582 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.apache.commons.cli_1.5.0.jar
+2024-02-13 17:25:50,582 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [14])
+2024-02-13 17:25:50,583 [Worker-52: Launching backend (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\com.google.guava.failureaccess_1.0.1.jar
+2024-02-13 17:25:50,586 [Worker-52: Launching backend (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\intel\Desktop\CodeExchangeHub\backend":
+2024-02-13 17:25:50,586 [Worker-52: Launching backend (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean install
+2024-02-13 17:38:39,576 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-13 17:38:39,576 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-02-13 17:38:39,577 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-02-13 17:38:39,613 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-13 17:38:39,617 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-13 17:38:39,617 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-02-13 17:38:39,618 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\intel\Desktop\CodeExchangeHub\backend\src\test\resources
+2024-02-13 17:39:02,449 [Worker-58: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-02-13 17:39:04,437 [Worker-58: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.CodeExchangeHub:CodeExchangeHub:0.0.1-SNAPSHOT @ C:\Users\intel\Desktop\CodeExchangeHub\backend\pom.xml.
+2024-02-13 17:39:07,523 [Worker-58: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /backend/src/main/java
+2024-02-13 17:39:07,524 [Worker-58: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /backend/src/main/resources
+2024-02-13 17:39:07,524 [Worker-58: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /backend/src/main/resources
+2024-02-13 17:39:07,525 [Worker-58: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /backend/src/test/java
+2024-02-13 17:39:07,525 [Worker-58: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /backend/src/test/resources
+2024-02-13 17:39:09,077 [Worker-58: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for backend
+2024-02-13 17:39:09,152 [Worker-58: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 4.00 sec, update config takes 1.00 sec 
+2024-02-13 17:39:10,056 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-13 17:39:10,056 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-02-13 17:39:10,057 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-02-13 17:39:10,079 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-13 17:39:10,084 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-13 17:39:10,084 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-02-13 17:39:10,085 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\intel\Desktop\CodeExchangeHub\backend\src\test\resources
+2024-02-13 17:39:10,085 [Worker-61: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of backend
+2024-02-13 17:39:10,086 [Worker-61: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for backend
+2024-02-13 17:39:28,076 [Worker-59: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-02-13 17:39:28,689 [Worker-59: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.CodeExchangeHub:CodeExchangeHub:0.0.1-SNAPSHOT @ C:\Users\intel\Desktop\CodeExchangeHub\backend\pom.xml.
+2024-02-13 17:39:30,186 [Worker-59: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /backend/src/main/java
+2024-02-13 17:39:30,186 [Worker-59: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /backend/src/main/resources
+2024-02-13 17:39:30,187 [Worker-59: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /backend/src/main/resources
+2024-02-13 17:39:30,187 [Worker-59: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /backend/src/test/java
+2024-02-13 17:39:30,188 [Worker-59: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /backend/src/test/resources
+2024-02-13 17:39:30,845 [Worker-59: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for backend
+2024-02-13 17:39:30,903 [Worker-59: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2024-02-13 17:39:31,600 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-13 17:39:31,600 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-02-13 17:39:31,601 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-02-13 17:39:31,621 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-13 17:39:31,626 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-13 17:39:31,626 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-02-13 17:39:31,626 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\intel\Desktop\CodeExchangeHub\backend\src\test\resources
+2024-02-13 17:39:31,627 [Worker-58: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of backend
+2024-02-13 17:39:31,627 [Worker-58: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for backend
+2024-02-13 17:41:34,122 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2024-02-13 17:42:07,281 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755 [623])
+2024-02-13 17:42:07,282 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755
+2024-02-13 17:42:07,283 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\aether-connector-okhttp-0.17.8.jar
+2024-02-13 17:42:07,283 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\aopalliance-1.0.jar
+2024-02-13 17:42:07,283 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\commons-lang3-3.12.0.jar
+2024-02-13 17:42:07,283 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\guice-5.1.0.jar
+2024-02-13 17:42:07,283 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\jansi-2.4.0.jar
+2024-02-13 17:42:07,283 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-artifact-3.9.4.jar
+2024-02-13 17:42:07,284 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-builder-support-3.9.4.jar
+2024-02-13 17:42:07,284 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-compat-3.9.4.jar
+2024-02-13 17:42:07,284 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-core-3.9.4.jar
+2024-02-13 17:42:07,284 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-embedder-3.9.4.jar
+2024-02-13 17:42:07,284 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-model-3.9.4.jar
+2024-02-13 17:42:07,284 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-model-builder-3.9.4.jar
+2024-02-13 17:42:07,285 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-plugin-api-3.9.4.jar
+2024-02-13 17:42:07,285 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-repository-metadata-3.9.4.jar
+2024-02-13 17:42:07,285 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-api-1.9.14.jar
+2024-02-13 17:42:07,285 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-connector-basic-1.9.14.jar
+2024-02-13 17:42:07,285 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-impl-1.9.14.jar
+2024-02-13 17:42:07,286 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-named-locks-1.9.14.jar
+2024-02-13 17:42:07,286 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-provider-3.9.4.jar
+2024-02-13 17:42:07,286 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-spi-1.9.14.jar
+2024-02-13 17:42:07,286 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-transport-wagon-1.9.14.jar
+2024-02-13 17:42:07,286 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-util-1.9.14.jar
+2024-02-13 17:42:07,287 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-settings-3.9.4.jar
+2024-02-13 17:42:07,287 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-settings-builder-3.9.4.jar
+2024-02-13 17:42:07,287 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-shared-utils-3.3.4.jar
+2024-02-13 17:42:07,287 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\okhttp-3.14.1.jar
+2024-02-13 17:42:07,287 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\okio-1.17.3.jar
+2024-02-13 17:42:07,287 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\org.eclipse.sisu.inject-0.3.5.jar
+2024-02-13 17:42:07,288 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2024-02-13 17:42:07,288 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-build-api-0.0.7.jar
+2024-02-13 17:42:07,288 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-cipher-2.0.jar
+2024-02-13 17:42:07,288 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-classworlds-2.7.0.jar
+2024-02-13 17:42:07,289 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-component-annotations-2.1.0.jar
+2024-02-13 17:42:07,289 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-interpolation-1.26.jar
+2024-02-13 17:42:07,289 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-sec-dispatcher-2.0.jar
+2024-02-13 17:42:07,289 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-utils-3.5.1.jar
+2024-02-13 17:42:07,290 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\wagon-file-3.5.3.jar
+2024-02-13 17:42:07,290 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\wagon-provider-api-3.5.3.jar
+2024-02-13 17:42:07,291 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_32.1.2.jre [12])
+2024-02-13 17:42:07,292 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\com.google.guava_32.1.2.jre.jar
+2024-02-13 17:42:07,292 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.9 [984])
+2024-02-13 17:42:07,293 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\slf4j.api_2.0.9.jar
+2024-02-13 17:42:07,294 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [38])
+2024-02-13 17:42:07,296 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2024-02-13 17:42:07,297 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20200909-1856 [36])
+2024-02-13 17:42:07,298 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\javax.annotation_1.3.5.v20200909-1856.jar
+2024-02-13 17:42:07,298 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.5.0 [73])
+2024-02-13 17:42:07,299 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\org.apache.commons.cli_1.5.0.jar
+2024-02-13 17:42:07,299 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [14])
+2024-02-13 17:42:07,299 [Worker-65: Launching backend (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\intel\.p2\pool\plugins\com.google.guava.failureaccess_1.0.1.jar
+2024-02-13 17:42:07,301 [Worker-65: Launching backend (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\intel\Desktop\CodeExchangeHub\backend":
+2024-02-13 17:42:07,301 [Worker-65: Launching backend (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean install
+2024-02-13 18:54:04,534 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-13 18:54:04,534 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-02-13 18:54:04,536 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-02-13 18:54:04,545 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-13 18:54:04,548 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-13 18:54:04,548 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-02-13 18:54:04,548 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\intel\Desktop\CodeExchangeHub\backend\src\test\resources
+2024-02-13 19:07:58,922 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-13 19:07:58,922 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-02-13 19:07:58,923 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-02-13 19:07:58,946 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-13 19:07:58,950 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-13 19:07:58,950 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-02-13 19:07:58,950 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\intel\Desktop\CodeExchangeHub\backend\src\test\resources
+2024-02-13 19:07:58,951 [Worker-81: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of backend
+2024-02-13 19:07:58,951 [Worker-81: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for backend
+2024-02-13 19:08:44,758 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-13 19:08:44,759 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-02-13 19:08:44,760 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-02-13 19:08:44,764 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-13 19:08:44,769 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-13 19:08:44,769 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-02-13 19:08:44,769 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\intel\Desktop\CodeExchangeHub\backend\src\test\resources
+2024-02-13 19:09:25,045 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-13 19:09:25,046 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-02-13 19:09:25,048 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-02-13 19:09:25,052 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-13 19:09:25,055 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-13 19:09:25,055 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-02-13 19:09:25,055 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\intel\Desktop\CodeExchangeHub\backend\src\test\resources
+2024-02-13 19:11:20,976 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-13 19:11:20,977 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-02-13 19:11:20,978 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-02-13 19:11:20,985 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-13 19:11:20,988 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-13 19:11:20,988 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-02-13 19:11:20,989 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\intel\Desktop\CodeExchangeHub\backend\src\test\resources
+2024-02-13 19:11:23,500 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-13 19:11:23,500 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-02-13 19:11:23,501 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-02-13 19:11:23,509 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-13 19:11:23,511 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-13 19:11:23,511 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-02-13 19:11:23,511 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\intel\Desktop\CodeExchangeHub\backend\src\test\resources
+2024-02-13 19:11:25,673 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-13 19:11:25,673 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-02-13 19:11:25,674 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-02-13 19:11:25,681 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-13 19:11:25,684 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-13 19:11:25,684 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-02-13 19:11:25,685 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\intel\Desktop\CodeExchangeHub\backend\src\test\resources
+2024-02-13 19:12:17,060 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-13 19:12:17,061 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-02-13 19:12:17,062 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-02-13 19:12:17,068 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-02-13 19:12:17,071 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-13 19:12:17,071 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-02-13 19:12:17,072 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\intel\Desktop\CodeExchangeHub\backend\src\test\resources
+2024-02-13 19:16:52,101 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-02-13 19:16:52,103 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
