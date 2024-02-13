@@ -47,7 +47,7 @@ public class WebSecurityConfiguration {
         .authorizeRequests().
         antMatchers("/signup","/authentication","api/question","api/answer").permitAll()
         .and()
-        .authorizeRequests().antMatchers("/api/**").authenticated()
+        .authorizeRequests().antMatchers("*").authenticated()
         .and()
         .sessionManagement()
         .sessionCreationPolicy(SessionCreationPolicy.STATELESS)
