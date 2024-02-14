@@ -27,8 +27,8 @@ export default function CardComponent({setAllQuestionVisable,setQuestionDescript
                             Error
                         </span>
                     </div>
-                    <div class="flex w-full items-center gap-2 py-6 text-sm text-slate-600">
-                        <div class="h-px w-full bg-slate-200 grid grid-cols-3 gap-1">
+                    <div className="flex w-full items-center gap-2 py-6 text-sm text-slate-600">
+                        <div className="h-px w-full bg-slate-200 grid grid-cols-3 gap-1">
                             <span onClick={()=>{console.log("hello");}}>Votes:0</span>
                             <span>Posted by: ankit</span>
                             <span>Posted On: June 16,2023</span> 

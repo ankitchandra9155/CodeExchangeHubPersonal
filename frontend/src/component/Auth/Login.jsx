@@ -1,10 +1,34 @@
 import React, { useState } from 'react'
-import Signup from './Signup'
-export default function Login({setIsLoginUp}) {
-    const [isSignUp, setIsSignUp] = useState(false)
-    const signUp = () => {
-        setIsSignUp(!isSignUp)
-      }
+import {signUp,loginSuccess}from "./authSlice"
+import { useDispatch } from 'react-redux'
+import { loginService } from '../../service/authService'
+export default function Login() {
+    const[email,setEmail]=useState('')
+    const [password,setPassword]=useState('')
+    const dispatch=useDispatch();
+    const handelSignUp=()=>{
+        dispatch(signUp()) 
+    }
+    const handelPassword=(e)=>{
+       setPassword(e.target.value)
+    }
+    const handelEmail=(e)=>{
+        setEmail(e.target.value)
+    }
+    const handelLogin=async(e)=>{
+         e.preventDefault()
+         const logInData={
+            email:email,
+            password:password
+         }
+
+        const {responseData,isError}=await loginService(logInData)
+        if(!isError){
+        dispatch(loginSuccess({userName:responseData.userName,userEmail:responseData.userEmail,userId:responseData.userId,token:responseData.token}))
+        }else{
+            console.log("Error in login");
+        }
+    }
     return (<>
         <div
             id="login-popup"
@@ -14,7 +38,7 @@ export default function Login({setIsLoginUp}) {
             <div className="relative p-4 w-full max-w-md h-full md:h-auto">
                 <div className="relative bg-white rounded-lg shadow">
                     <button
-                        onClick={()=>{setIsLoginUp(false)}}
+                        // onClick={}
                         type="button"
                         className="absolute top-3 right-2.5 text-gray-400 bg-transparent hover:bg-gray-200 hover:text-gray-900 rounded-lg text-sm p-1.5 ml-auto inline-flex items-center popup-close"
                     >
@@ -45,7 +69,7 @@ export default function Login({setIsLoginUp}) {
                             </p>
                             <p className="mt-2 text-sm leading-4 text-slate-600">
                                 Don't have an account?
-                                <button onClick={signUp} >SIGN UP</button>
+                                <button onClick={handelSignUp} >SIGN UP</button>
                             </p>
                         </div>
                         <div className="mt-7 flex flex-col gap-2">  
@@ -58,10 +82,11 @@ export default function Login({setIsLoginUp}) {
                                 name="email"
                                 type="email"
                                 autoComplete="email"
-                                required=""
+                                required={true}
                                 className="mt-2 block w-full rounded-lg border border-gray-300 px-3 py-2 shadow-sm outline-none placeholder:text-gray-400 focus:ring-2 focus:ring-black focus:ring-offset-1"
                                 placeholder="Email Address"
-                                defaultValue=""
+                                onChange={handelEmail}
+                                value={email}
                             />
                             <label htmlFor="password" className="sr-only">
                                 Password
@@ -70,16 +95,18 @@ export default function Login({setIsLoginUp}) {
                                 name="password"
                                 type="password"
                                 autoComplete="current-password"
-                                required=""
+                                required={true}
                                 className="mt-2 block w-full rounded-lg border border-gray-300 px-3 py-2 shadow-sm outline-none placeholder:text-gray-400 focus:ring-2 focus:ring-black focus:ring-offset-1"
                                 placeholder="Password"
-                                defaultValue=""
+                                onChange={handelPassword}
+                                value={password}
                             />
                             <p className="mb-3 mt-2 text-sm text-gray-500">
 
                             </p>
                             <button
-                                type="submit"
+
+                                onClick={handelLogin}
                                 className="inline-flex w-full items-center justify-center rounded-lg bg-black p-2 py-3 text-sm font-medium text-white outline-none focus:ring-2 focus:ring-black focus:ring-offset-1 disabled:bg-gray-400"
                             >
                                 Login
@@ -89,7 +116,6 @@ export default function Login({setIsLoginUp}) {
                 </div>
             </div>
         </div>
-        {isSignUp && <Signup setIsSignUp={setIsSignUp} />}
 
     </>)
 

@@ -1,27 +1,20 @@
 import React, { useState } from 'react'
 import { Menu, X, ChevronRight } from 'lucide-react'
-import Signup from './Signup'
-import Login from './Login'
+import Avatar from "../assets/man.png"
+import { useSelector } from 'react-redux'
 
 export default function Navbar() {
   const [isMenuOpen, setIsMenuOpen] = React.useState(false)
-  const [isSignUp, setIsSignUp] = useState(false)
-  const [isLoginUp, setIsLoginUp] = useState(false)
-  const signUp = () => {
-    setIsSignUp(!isSignUp)
-  }
-  
-  const logIn = () => {
-    setIsLoginUp(!isLoginUp)
-  }
+  const userEmail=useSelector((state)=>state.auth.userEmail)
+  const userName=useSelector((state)=>state.auth.userName)
   const toggleMenu = () => {
     setIsMenuOpen(!isMenuOpen)
   }
 
   return (
-    <div className="relative w-full bg-slate-50">
-      <div className="mx-auto flex max-w-7xl items-center justify-between px-2 py-5 sm:px-6 lg:px-8">
-        <div className="inline-flex items-center space-x-2">
+    <div className="fixed top-0 left-0 right-0 z-50 w-full bg-slate-100">
+      <div className="mx-auto flex max-w-7xl items-center justify-between  py-5 sm:px-6 lg:px-8">
+        <div className="inline-flex float-left">
           <span>
             <svg
               width="30"
@@ -45,21 +38,16 @@ export default function Navbar() {
             placeholder="Serach"
           ></input>
         </div>
-        <div className="hidden space-x-2 lg:block">
-          <button
-            type="button"
-            onClick={signUp}
-            className="rounded-md bg-transparent px-3 py-2 text-sm font-semibold text-black hover:bg-black/10 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"
-          >
-            Sign Up
-          </button>
-          <button
-            type="button"
-            onClick={logIn}
-            className="rounded-md border border-black px-3 py-2 text-sm font-semibold text-black shadow-sm focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"
-          >
-            Log In
-          </button>
+        <div className="ml-3 mt-4 flex items-center space-x-2">
+          <img
+            className="inline-block h-10 w-10 rounded-full"
+            src={Avatar}
+            alt="Dan_Abromov"
+          />
+          <span className="flex flex-col">
+            <span className="text-sm font-medium text-gray-900">{userName}</span>
+            <span className="text-sm font-medium text-gray-500">{userEmail}</span>
+          </span>
         </div>
         <div className="lg:hidden">
           <Menu onClick={toggleMenu} className="h-6 w-6 cursor-pointer" />
@@ -136,8 +124,7 @@ export default function Navbar() {
           </div>
         )}
       </div>
-      {isSignUp && <Signup setIsSignUp={setIsSignUp} />}
-      {isLoginUp && <Login setIsLoginUp={setIsLoginUp} />}
+
     </div>
   )
 }

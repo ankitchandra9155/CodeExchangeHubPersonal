@@ -1,4 +1,4 @@
-import CardComponent from "./CardComponent"
+import CardComponent from "./QuestionCardComponent"
 export default function AllquestionComponents({setAllQuestionVisable,setQuestionDescription})
 {
     return(<>

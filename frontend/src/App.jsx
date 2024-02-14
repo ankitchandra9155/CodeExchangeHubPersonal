@@ -1,19 +1,14 @@
 import { useState } from 'react'
 import './App.css'
-import Login from './component/Login'
-import Signup from './component/Signup'
-import Navbar from './component/Navbar'
-import FilterComponent from './component/FilterComponent'
-
+// import Dashboard from './pages/Dashboard'
+import Dashboard from './pages/dashboard'
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <>
-    {/* <Login/> */}
-    <Signup/>
-    <Navbar/>
-    <FilterComponent/>
+     <Dashboard/>
+    
     </>
   
   )

@@ -1,11 +1,7 @@
 import { useState } from "react";
 
-export default function Tag() {
-
-    // const taglist = ["Buyer", "Friend", "fast food", "dog lover", "motocycles"]
-    const [taglist,setTaglist]=useState([])
+export default function Tag({setTaglist,taglist}) {    
     const [tag,setTag]=useState("")
-
     const handelAdd=()=>{
         setTaglist([...taglist,tag])
         setTag("")
@@ -20,17 +16,12 @@ export default function Tag() {
     }
     return (<>
         <div className=" flex flex-col   sm:mx-0">
-            <div className="py-2 px-2 rounded  overflow-hidden w-full dark:bg-gray-800">
-                {/* <div className="flex flex-row justify-start items-center">
-                    <h1 className="text-lg sm:text-2xl font-bold text-gray-800 mr-2 dark:text-gray-100">
-                        Tags
-                    </h1>
-                </div> */}
+            <div className="py-2 px-2 rounded  overflow-hidden w-full ">
                 <div className="flex mt-8 ">  
                     <div className="flex p-2.5 w-full text-sm text-gray-900  mr-2 mt-3 rounded-lg border border-gray-300 placeholder:text-gray-600 focus:outline-none focus:ring-1 focus:ring-black/30 focus:ring-offset-1 disabled:cursor-not-allowed disabled:opacity-50">
                         <svg
                             xmlns="http://www.w3.org/2000/svg"
-                            className="h-6 w-6 opacity-50 dark:text-gray-100 ml-2"
+                            className="h-6 w-6 opacity-50 ml-2"
                             fill="none"
                             viewBox="0 0 24 24"
                             stroke="currentColor"
@@ -45,7 +36,7 @@ export default function Tag() {
                         <input
                             value={tag}
                             onChange={(e)=>{setTag(e.target.value)}}
-                            className="outline-none text-sm sm:text-base ml-1 w-full dark:bg-gray-700 dark:text-gray-200 border-transparent focus:border-transparent focus:ring-0"
+                            className="outline-none text-sm sm:text-base ml-1 w-full  border-transparent focus:border-transparent focus:ring-0"
                             type="text"
                             placeholder="Add a tag..."
                         />
@@ -61,12 +52,12 @@ export default function Tag() {
                 </div>
                 <div className="my-3 flex flex-wrap -m-1">
                     {taglist.map((tag, key) => (
-                        <span key={key} className="m-1 flex flex-wrap justify-between items-center text-xs sm:text-sm bg-gray-200 hover:bg-gray-300 dark:bg-gray-700 dark:hover:bg-gray-600 rounded px-4 py-2 font-bold leading-loose cursor-pointer dark:text-gray-300">
+                        <span key={key} className="m-1 flex flex-wrap justify-between items-center text-xs sm:text-sm bg-gray-200 hover:bg-gray-300 rounded px-4 py-2 font-bold leading-loose cursor-pointer ">
                             {tag}
                             <svg
                                 onClick={()=>handelClose(key)}
                                 xmlns="http://www.w3.org/2000/svg"
-                                className="w-3 h-3 sm:h-4 sm:w-4 ml-4 text-gray-500 hover:text-gray-600 dark:text-gray-400 dark:hover:text-gray-300"
+                                className="w-3 h-3 sm:h-4 sm:w-4 ml-4 text-gray-500 hover:text-gray-600"
                                 viewBox="0 0 20 20"
                                 fill="currentColor"
                             >

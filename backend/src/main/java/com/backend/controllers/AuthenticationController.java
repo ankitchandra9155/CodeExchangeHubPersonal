@@ -72,12 +72,15 @@ public class AuthenticationController {
 //					.put("userId",optionalUser.get().getId())
 //					.toString());
 			PrintWriter writer=new PrintWriter(response.getOutputStream());
-			JSONObject jsonResponse=new JSONObject().put("userId", optionalUser.get().getId());
+			JSONObject jsonResponse=new JSONObject().put("userId", optionalUser.get().getId())
+					.put("email",optionalUser.get().getEmail() ).put("name", optionalUser.get().getName());
 			writer.write(jsonResponse.toString());
 //			writer.flush();
 //			writer.close();
 			response.addHeader("userId", optionalUser.get().getId().toString());
-			response.addHeader("Access-Control-Expose-Headers", "Authorization, userId");
+			response.addHeader("name", optionalUser.get().getName().toString());
+			response.addHeader("email", optionalUser.get().getEmail().toString());
+			response.addHeader("Access-Control-Expose-Headers", "Authorization, userId,name,email");
 			response.setHeader("Access-Control-Allow-Headers", "Authorization, X-PINGOTHER, X-Requested-With, Content-Type, Accept, X-Custom-header");
 			response.setHeader(HEADER_STRING,TOKEN_PREFIX+jwt);
 			

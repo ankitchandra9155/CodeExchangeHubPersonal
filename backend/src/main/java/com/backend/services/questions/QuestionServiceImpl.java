@@ -59,6 +59,7 @@ public class QuestionServiceImpl implements QuestionService {
 			createdQuestionDto.setId(createdQuestion.getId());
 			createdQuestionDto.setTitle(createdQuestion.getTitle());
 			createdQuestionDto.setBody(createdQuestion.getBody());
+			createdQuestionDto.setCreatedDate(createdQuestion.getCreatedDate());
 			return createdQuestionDto;
 			
 			

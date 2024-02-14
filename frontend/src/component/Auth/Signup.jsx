@@ -1,26 +1,42 @@
 import React, { useState } from 'react'
-export default function Signup({setIsSignUp}) {
-    const[name,setName]=useState("");
-    const[email,setEmail]=useState("");
-    const[password,setPassword]=useState("");
+import { login ,signupSuccess} from "./authSlice"
+import { useDispatch } from 'react-redux'
+import { signUpService } from '../../service/authService'
+export default function Signup() {
+    const dispatch = useDispatch()
+    const [fullName, setFullName] = useState('')
+    const [email, setEmail] = useState('')
+    const [password, setPassword] = useState('')
 
-    const handleNameChange=(e)=>{
-        console.log(e.target.value);
-        setName(e.target.value);
-    }
-    const handleEmailChange=(e)=>{
-        setEmail(e.target.value);
-    }
-    const handlePasswordChange=(e)=>{
-        setPassword(e.target.value);
-    }
-    const handleSubmitButton=()=>{
-        console.log(name)
-        console.log(email)
-        console.log(password)
+    const handelFullName=(e)=>{
+          setFullName(e.target.value)
     }
 
+    const handelPassword=(e)=>{
+        setPassword(e.target.value)
+    }
+    const handelEmail=(e)=>{
+        setEmail(e.target.value)
+    }
+    const handelLogin = () => {
+        dispatch(login())
+    }
+     
+    const handelCreateAccount=async(e)=>{
+        e.preventDefault()
+        const signUpData={
+            "name":fullName,
+            "email":email,
+            "password":password
+        }
+        setEmail('')
+        setFullName('')
+        setPassword('')
+       const jsonResponse= await signUpService(signUpData)
+       dispatch(signupSuccess())
 
+
+    }
 
     return (<>
         <div
@@ -31,7 +47,6 @@ export default function Signup({setIsSignUp}) {
             <div className="relative p-4 w-full max-w-md h-full md:h-auto">
                 <div className="relative bg-white rounded-lg shadow">
                     <button
-                        onClick={()=>{setIsSignUp(false)}}
                         type="button"
                         className="absolute top-3 right-2.5 text-gray-400 bg-transparent hover:bg-gray-200 hover:text-gray-900 rounded-lg text-sm p-1.5 ml-auto inline-flex items-center popup-close"
                     >
@@ -60,8 +75,12 @@ export default function Signup({setIsSignUp}) {
                             <p className="mt-2 text-sm leading-4 text-slate-600">
                                 You must be signed in to perform this action.
                             </p>
+                            <p className="mt-2 text-sm leading-4 text-slate-600">
+                                Already have an account?
+                                <button onClick={handelLogin}>Login</button>
+                            </p>
                         </div>
-                        <div className="mt-7 flex flex-col gap-2">  
+                        <div className="mt-7 flex flex-col gap-2">
                         </div>
                         <form className="w-full">
                             <label htmlFor="email" className="sr-only">
@@ -69,12 +88,14 @@ export default function Signup({setIsSignUp}) {
                             </label>
                             <input
                                 name="fullName"
-                                type="text"                         
-                                required=""
+                                type="text"
+                                onChange={handelFullName}
+                                value={fullName}
+                                required={true}
                                 className="block w-full rounded-lg border border-gray-300 px-3 py-2 shadow-sm outline-none placeholder:text-gray-400 focus:ring-2 focus:ring-black focus:ring-offset-1"
                                 placeholder="Full Name"
-                                defaultValue=""
-                                onChange={handleNameChange}
+                                
+
                             />
                             <label htmlFor="email" className="sr-only">
                                 Email address
@@ -83,11 +104,12 @@ export default function Signup({setIsSignUp}) {
                                 name="email"
                                 type="email"
                                 autoComplete="email"
-                                required=""
+                                required={true}
                                 className="mt-2 block w-full rounded-lg border border-gray-300 px-3 py-2 shadow-sm outline-none placeholder:text-gray-400 focus:ring-2 focus:ring-black focus:ring-offset-1"
                                 placeholder="Email Address"
-                                defaultValue=""
-                                onChange={handleEmailChange}
+                                onChange={handelEmail}
+                                value={email}
+
                             />
                             <label htmlFor="password" className="sr-only">
                                 Password
@@ -96,20 +118,19 @@ export default function Signup({setIsSignUp}) {
                                 name="password"
                                 type="password"
                                 autoComplete="current-password"
-                                required=""
+                                required={true}
                                 className="mt-2 block w-full rounded-lg border border-gray-300 px-3 py-2 shadow-sm outline-none placeholder:text-gray-400 focus:ring-2 focus:ring-black focus:ring-offset-1"
-                                placeholder="Password"
-                                defaultValue=""
-                                onChange={handlePasswordChange}
+                                placeholder="New Password"
+                                onChange={handelPassword}
+                                value={password}
+
                             />
                             <p className="mb-3 mt-2 text-sm text-gray-500">
 
                             </p>
                             <button
-                                type="submit"
-                                className="inline-flex w-full items-center justify-center rounded-lg bg-black p-2 py-3 text-sm font-medium text-white outline-none focus:ring-2 focus:ring-black focus:ring-offset-1 disabled:bg-gray-400"
-                                onClick={handleSubmitButton}
-                            >
+                                onClick={handelCreateAccount}
+                                className="inline-flex w-full items-center justify-center rounded-lg bg-black p-2 py-3 text-sm font-medium text-white outline-none focus:ring-2 focus:ring-black focus:ring-offset-1 disabled:bg-gray-400">
                                 Create Account
                             </button>
                         </form>
